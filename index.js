@@ -10,7 +10,8 @@ var yScreenScale = 360;
 var yCamera = 2;
 var zCamera = -3;
 
-var rate = 1 / (2 * Math.PI); // every rotation y gets one bigger
+// every rotation y gets one bigger
+var rate = 1 / (2 * Math.PI); 
 var factor = rate / 3;
 
 function run() {
