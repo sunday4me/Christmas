@@ -5,7 +5,7 @@ I found animated Christmas tree on reddit:
 
 ![reddit tree](http://i.imgur.com/Fy4S1jR.gif)
 
-Was curious to make it in js. Current results are here: [Happy new  2023!](https://github.com/Tecnophille/Christmas/). Wish you all great successes and joy, doing what you love!
+Was curious to make it in js. Current results are here: [Happy new  2023!](https://github.com/sunday4me/Christmas/). Wish you all great successes and joy, doing what you love!
 
 How it's built?
 ---------------
